@@ -1,15 +1,21 @@
 _repo: The-Life-of-Man-A-Play-in-Five-Acts_49852
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Hogarth, C. J.
     gutenberg_agent_id: '835'
     url: http://www.gutenberg.org/2009/agents/835
+covers:
+- cover_type: archival
+  image_path: 49852-h/images/cover.jpg
 creator:
   author:
     agent_name: Andreyev, Leonidas
     gutenberg_agent_id: '45577'
     url: http://www.gutenberg.org/2009/agents/45577
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49852#The-Life-of-Man-A-Play-in-Five-Acts
 gutenberg_issued: '2015-09-02'
 gutenberg_type: Text
 identifiers:
